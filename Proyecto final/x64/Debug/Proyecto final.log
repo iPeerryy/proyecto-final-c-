@@ -1,0 +1,5 @@
+﻿  Proyecto final.cpp
+C:\Users\Perry\Desktop\C++\Proyecto final\Proyecto final\Proyecto final.cpp(1966,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Perry\Desktop\C++\Proyecto final\Proyecto final\Proyecto final.cpp(3077,73): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Perry\Desktop\C++\Proyecto final\Proyecto final\Proyecto final.cpp(240,1): warning C4715: 'esprimo1': not all control paths return a value
+  Proyecto final.vcxproj -> C:\Users\Perry\Desktop\C++\Proyecto final\x64\Debug\Proyecto final.exe
